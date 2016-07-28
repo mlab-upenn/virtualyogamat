@@ -1,8 +1,25 @@
 import { Template } from 'meteor/templating';
 import { Mat } from '../api/mat.js';
+import { Pose } from '../api/pose.js';
+
 import './body.html';
 
-
+Template.body.events({
+  'submit .new-task'(event) {
+    event.preventDefault();
+ 
+    // Get value from form element
+    const target = event.target;
+    const text = target.text.value;
+    var result = [];
+    Mat.find({}).forEach(function(u) { result.push(u.lit) });
+    // Insert a task into the collection
+    Pose.insert({time: text, pose: result});
+ 
+    // Clear form
+    target.text.value = '';
+  },
+});
 Template.body.helpers({
   mat: function() {
     return Mat.find({},{lit: 1}).fetch();
