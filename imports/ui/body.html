@@ -1,0 +1,18 @@
+<body>
+  <div class="container">
+    <header>
+      <h1>Virtual Yoga Mat</h1>
+    </header>
+ 
+    <div class="mat" style="display:inline-block">
+    {{#each mat}}
+      {{>section}}
+    {{/each}}
+    
+    </div> 
+  </div>
+</body>
+  
+<template name="section">
+  <div class="matsection" style="display:inline-block; background-color:{{litcolor}}"></div>
+</template>
