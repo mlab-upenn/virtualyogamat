@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-radius",
+				"border-top-left-radius"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bottom",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/juliuspark/simple-todos1/client/css/main.css",
+		"/Users/juliuspark/simple-todos1/imports/ui/body.html",
+		"/Users/juliuspark/simple-todos1/imports/ui/body.js",
+		"/Users/juliuspark/simple-todos1/imports/ui/body2.js",
+		"/Users/juliuspark/simple-todos/client/main.css",
+		"/Users/juliuspark/Library/Application Support/Sublime Text 3/Packages/User/Sublime-JSHint/README.md",
+		"/Users/juliuspark/GitHub/xlab-HealthWell/js/yogaDesign.js",
+		"/Users/juliuspark/simple-todos/client/yogaDesign.html",
+		"/Users/juliuspark/simple-todos/imports/api/untitled.js",
+		"/Users/juliuspark/simple-todos/imports/api/pose.js",
+		"/Users/juliuspark/simple-todos/imports/api/mat.js",
+		"/Users/juliuspark/GitHub/virtualyogamat/imports/ui/body.js",
+		"/Users/juliuspark/GitHub/virtualyogamat/imports/ui/body.html",
+		"/Users/juliuspark/simple-todos/imports/ui/body.js",
+		"/Users/juliuspark/simple-todos/imports/ui/body.html",
+		"/Users/juliuspark/simple-todos/server/main.js",
+		"/Users/juliuspark/simple-todos/client/main.js",
+		"/Users/juliuspark/simple-todos/client/main.html",
+		"/Users/juliuspark/GitHub/xLab_Cloud_Infrastructure-/xlab-meteor/server/main.js",
+		"/Users/juliuspark/GitHub/xLab_Cloud_Infrastructure-/xlab-meteor/lib/collections.js",
+		"/Users/juliuspark/GitHub/xLab_Cloud_Infrastructure-/xlab-meteor/server/common/publish.js",
+		"/Users/juliuspark/GitHub/xLab_Cloud_Infrastructure-/xlab-meteor/client/mat.js",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/DEA6DCD5-6E52-4CDF-8256-6C727BC8A6B7/Sheet1.html",
+		"/Users/juliuspark/Downloads/libpololu-avr/examples/atmega328p/simple-test/Makefile",
+		"/Users/juliuspark/Downloads/libpololu-avr/examples/atmega168/3pi-linefollower/test.c",
+		"/Users/juliuspark/Downloads/libpololu-avr/examples/atmega168/3pi-linefollower-pid/test.c",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/219AACFD-ECCD-49D9-BF1E-83C23E9B71E7/car-assembly.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/D797D210-D568-42AB-A92B-4BF473E83ED6/3dtest.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/888B6E75-CBE5-4DA3-A9D0-1365E0B61419/main.css",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/57C900EB-91CA-40B8-98C7-4DA75DCD12A9/car-assembly.html",
+		"/Users/juliuspark/Downloads/Final-Chassis-Labelled/UbiquityAntennaMount.SLDPRT",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/F78E7899-7C0E-4FD8-A982-26142FDC4B52/lectures_new.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/02A9BCA5-0A3A-44B4-A8D0-85530769DF09/nav.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/678AB8F1-C0B3-4E15-9B3A-D6A88A3A1D9E/index.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/E2063883-3A45-447F-87F1-ECCA701CEAD5/main.css",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/49BD3DED-C5F8-4F0E-BD2A-879F9A9B2CC5/main.css",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/281A0922-2FED-4794-90CB-5EE5F9CD5235/style.css",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/CA654E66-F962-422B-9389-A1B737E8813A/eventsandcompetition.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/305A94E4-06AE-4E79-82D8-6248DC510727/car-assembly_new.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/398F4FC1-1F5E-4A67-A33B-827577C4BD96/main.css",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/CEAC6A08-3B8A-4B2F-9B98-C0CC5E452B4C/lectures.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/CE5668D1-0F28-4A63-8511-408814C0357F/car-assembly.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/A89618C9-0557-4B60-9363-A8A692AD24B1/index.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/6EAA3546-79A1-4FCA-A537-57FAB164AE77/main.css",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/640F885A-DCA0-4694-92B1-A0826F6E9CA0/qheaderimage.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/A300FE7D-7CCF-4E3E-906C-ACFD44479556/p2headerimage.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/D43EE75F-99C4-47D8-A90B-D1F735F15D5F/rheaderimage.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/532746F3-EAF6-46B7-9696-D7B59D23CC4D/lectures.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/A309B73A-1958-4E89-B90B-08427FE94DFC/p1headerimage.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/66813137-602B-4395-85E0-92E4C8020073/p1headerimage.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/6B8E69EC-F126-4050-B4BF-6FF059F73F32/lectures.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/CD0B0204-1EBF-43F4-8BFF-11E8CBF6085C/p1headerimage.css",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/57A3D873-26D5-4094-B751-FF040BAFA901/car-assembly.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/CA47612A-6AE7-47F2-BA64-984EAAC8253E/lectures.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/62785195-DA36-4884-8557-74D42A05C3B2/lectures-new.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/959A3021-926C-495C-A67B-1752DDDA96D2/main.css",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/178F065A-C7F0-4393-9BEA-241B99CD018D/lectures-new.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/56CA1B64-F234-4336-AF32-7C7BAF119B8F/forum.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/5A31B20C-3AB8-4DF7-99D8-AB86001ED7A5/session1t.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/8AB159A3-6C46-405B-89CB-06E2F894F8E1/nav.html",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/2C9EEDC2-788E-4B59-94BB-A57659235EE1/car-assembly.html",
+		"/Users/juliuspark/Desktop/f1tenth/main.css",
+		"/Users/juliuspark/Library/Caches/Cleanup At Startup/Transmit/C2661479-D75E-443D-9943-E9F528487F24/lectures-new.html",
+		"/Users/juliuspark/Desktop/f1tenth/lectures.html",
+		"/Users/juliuspark/Desktop/f1tenth/car-assembly.html",
+		"/Users/juliuspark/Desktop/f1tenth/index.html",
+		"/Users/juliuspark/Desktop/f1tenth/nav.html",
+		"/Users/juliuspark/Desktop/f1tenth/forum.html",
+		"/Users/juliuspark/GitHub/fosslinalg/rref",
+		"/Users/juliuspark/GitHub/fosslinalg/det.py",
+		"/Users/juliuspark/Documents/det.py",
+		"/Users/juliuspark/Documents/spoofmac.sh",
+		"/Users/juliuspark/Documents/com.julius.park.macspoof.plist",
+		"/Users/juliuspark/Downloads/TextBar.app/Contents/PkgInfo",
+		"/Users/juliuspark/Library/Application Support/Übersicht/widgets/weather.widget/index.coffee",
+		"/Volumes/PENDRIVE/Java/ArrayLists/src/ArrayLists.java",
+		"/Users/juliuspark/Library/Application Support/Übersicht/widgets/sys-mon-set.widget/README.md",
+		"/Users/juliuspark/Library/Application Support/Übersicht/widgets/spotify-current-track.widget/index.coffee",
+		"/Users/juliuspark/Library/Application Support/Übersicht/widgets/Playbox.widget/index.coffee",
+		"/Users/juliuspark/Library/Application Support/Übersicht/widgets/spotify-current-track.widget/README.md",
+		"/Users/juliuspark/Library/Application Support/Übersicht/widgets/itunes-now.widget/index.coffee",
+		"/Users/juliuspark/Library/Application Support/Übersicht/widgets/CoverArt.widget/index.coffee",
+		"/Users/juliuspark/Library/Application Support/Übersicht/widgets/weather.widget/README.md",
+		"/Users/juliuspark/Downloads/zenbooru-v0.4.6/start.anyOS.bat"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"style",
+			"player",
+			"matsection",
+			"posename",
+			"container",
+			"time",
+			"calibration",
+			"display: none;",
+			"\\$\\(\"(.*).css\\(\"(.*)",
+			"\\$\\(\"(.*).css\\(",
+			"\\$\\(\"",
+			".css(\"display\",",
+			".css",
+			"addvideo",
+			"yogamat",
+			"(?<=http://...............)</td>",
+			"<td>(?=http://)",
+			"http://(.*?)(?=</td>)",
+			"http://(.*)(?=</td>)",
+			"(?<=http://)(.*)(?=</td>)",
+			"example:",
+			"section2",
+			"section0",
+			"section1",
+			"section3",
+			"section",
+			"section2",
+			"style=\"float:left\"",
+			"float:left",
+			"block",
+			"margin",
+			"nav",
+			"navbar",
+			"collapse1",
+			"<a href=\"session",
+			"data-toggle=\"collapse\" data-trigger=\"hover\" title=\"Info\" data-content=\"",
+			"h2",
+			"<h2>",
+			"<h2",
+			"popover",
+			"assignment-padding",
+			"<h4>",
+			"<h2",
+			"h1",
+			"id",
+			"subheading",
+			"navbar",
+			"page",
+			"navbar",
+			"style",
+			"row",
+			"table-",
+			"table",
+			"color"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"Mat",
+			"\"></a></td>",
+			"</a></td>",
+			"<td><a href=\"",
+			"<a>http://(.*?)(?=</td>)",
+			"",
+			"collapse11",
+			"collapse10",
+			"collapse9",
+			"collapse8",
+			"collapse7",
+			"collapse6",
+			"collapse5",
+			"collapse4",
+			"collapse3",
+			"collapse2",
+			"<a class=\"collapseheader\" data-toggle=\"collapse\" href=\"#collapse1\">[+] </a><a class=\"collapseheader\" href=\"session",
+			"",
+			"h1",
+			"collapse",
+			"<h4 class=\"subheadingtitledesc\">",
+			"<h4 class=\"subheadingtitledesc\"",
+			"<h2 class=\"subheadingtitletitle\"",
+			"h2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.961240310078,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Caches/Cleanup At Startup/Transmit/48356132-FC5E-4187-9418-4CA1DE793C9C/lectures-new.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
